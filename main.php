@@ -16,8 +16,10 @@
         <table>
             <tr><td><button onclick="addbtn()">Refresh</button></td></tr>
             <tr><td><input type="submit" value="&nbsp;view Employee" name="viwe" class="v" onclick="view()"></td></tr>
-            <!-- <tr><td><button onclick="upd()">Update Employee</button></td></tr>
-            <tr><td><button onclick="del()">Delete Record</button></td></tr> -->
+           <tr><td><button onclick="upd()">Update Employee</button></td></tr>
+            <tr><td><button onclick="del()">Delete Record</button></td></tr>
+//<tr><td><button onclick="del()">Delete Record</button></td></tr>
+
     </table>
     </form>
     </div>
