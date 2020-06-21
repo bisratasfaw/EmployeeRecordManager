@@ -1,0 +1,64 @@
+html{
+    height: 100%;
+}
+.body{
+    height:100%;
+    margin:0;
+    background-image: radial-gradient(#ffffff , #706f6f);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+header{
+    text-align: center;
+    background-color: black;
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:25px ;
+}
+button{
+    text-align: center;
+    border-radius: 15px;
+    border-style: outset;
+
+}
+input{
+    border-style: none;
+    background-color: rgb(221, 225, 230);
+    color: rgb(36, 29, 29);
+    border-radius: 5px;
+
+}
+#m1{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 60%;
+    border-style: inset;
+    /* border: steelblue  solid 1px; */
+}
+
+#m1 hover{
+    opacity:85%;
+
+}
+.search{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 60%;
+    border-style: outset;
+}
+
+.updateDiv{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 60%;
+    border-style: outset;
+}
+.footer{
+    position: absolute;
+    margin-top: 85%;
+    margin-left: 70%;
+  }
+table{
+    font-size: 25px;
+}
+
